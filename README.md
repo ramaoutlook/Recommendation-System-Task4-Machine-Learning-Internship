@@ -41,6 +41,11 @@ Dataset from Kaggle:
 
 Dataset Link: [Book Recommendation Dataset on Kaggle](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 
+## 🚀 Output
+![Image](https://github.com/user-attachments/assets/d405804e-e2a9-4af1-bea6-7b09e8f22ac7)
+![Image](https://github.com/user-attachments/assets/ea910e38-7e21-4913-9623-6120483793fe)
+![Image](https://github.com/user-attachments/assets/960f27a6-d2af-4414-b7e7-e1c1d905bc7b)
+
 ## 🚀 Features
 
 - Personalized book recommendations based on collaborative filtering
